@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bridget Wangler | Vijay Kumar</title>
+    <link>https://vijaykumar18.github.io/author/bridget-wangler/</link>
+      <atom:link href="https://vijaykumar18.github.io/author/bridget-wangler/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bridget Wangler</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vijaykumar18.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Bridget Wangler</title>
+      <link>https://vijaykumar18.github.io/author/bridget-wangler/</link>
+    </image>
+    
+    <item>
+      <title>COVID-19 in New York state: Effects of demographics and air quality on infection and fatality</title>
+      <link>https://vijaykumar18.github.io/publication/mondal-2022-covid/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://vijaykumar18.github.io/publication/mondal-2022-covid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Infection vs Fatality of COVID-19 in New York State; Effects of Demographics and Poor Air Quality</title>
+      <link>https://vijaykumar18.github.io/talk/infection-vs-fatality-of-covid-19-in-new-york-state-effects-of-demographics-and-poor-air-quality/</link>
+      <pubDate>Mon, 18 May 2020 08:00:00 +0000</pubDate>
+      <guid>https://vijaykumar18.github.io/talk/infection-vs-fatality-of-covid-19-in-new-york-state-effects-of-demographics-and-poor-air-quality/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

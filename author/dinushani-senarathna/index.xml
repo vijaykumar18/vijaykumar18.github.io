@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dinushani Senarathna | Vijay Kumar</title>
+    <link>https://vijaykumar18.github.io/author/dinushani-senarathna/</link>
+      <atom:link href="https://vijaykumar18.github.io/author/dinushani-senarathna/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dinushani Senarathna</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 May 2022 08:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vijaykumar18.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Dinushani Senarathna</title>
+      <link>https://vijaykumar18.github.io/author/dinushani-senarathna/</link>
+    </image>
+    
+    <item>
+      <title>Spectral analysis of low-cost sensor network data</title>
+      <link>https://vijaykumar18.github.io/talk/spectral-analysis-of-low-cost-sensor-network-data/</link>
+      <pubDate>Wed, 11 May 2022 08:00:00 +0000</pubDate>
+      <guid>https://vijaykumar18.github.io/talk/spectral-analysis-of-low-cost-sensor-network-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatiotemporal Analysis of PM2.5 in Chicago Using Data from EPA and Low-Cost Sensor Network</title>
+      <link>https://vijaykumar18.github.io/talk/spatiotemporal-analysis-of-pm2.5-in-chicago-using-data-from-epa-and-low-cost-sensor-network/</link>
+      <pubDate>Mon, 18 Oct 2021 08:00:00 +0000</pubDate>
+      <guid>https://vijaykumar18.github.io/talk/spatiotemporal-analysis-of-pm2.5-in-chicago-using-data-from-epa-and-low-cost-sensor-network/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

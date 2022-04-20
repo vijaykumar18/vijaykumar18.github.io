@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://vijaykumar18.github.io/sitemap.xml
