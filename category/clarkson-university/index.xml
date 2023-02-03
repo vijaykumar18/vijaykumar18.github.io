@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | Vijay Kumar</title>
-    <link>https://vijaykumar18.github.io/post/</link>
-      <atom:link href="https://vijaykumar18.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Posts</description>
+    <title>Clarkson University | Vijay Kumar</title>
+    <link>https://vijaykumar18.github.io/category/clarkson-university/</link>
+      <atom:link href="https://vijaykumar18.github.io/category/clarkson-university/index.xml" rel="self" type="application/rss+xml" />
+    <description>Clarkson University</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://vijaykumar18.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
-      <title>Posts</title>
-      <link>https://vijaykumar18.github.io/post/</link>
+      <title>Clarkson University</title>
+      <link>https://vijaykumar18.github.io/category/clarkson-university/</link>
     </image>
     
     <item>
@@ -20,18 +20,6 @@
       <description>&lt;h2 id=&#34;clarkson-university-news-link-attached-below&#34;&gt;Clarkson University news link attached below:&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;👉 &lt;a href=&#34;https://www.clarkson.edu/news/clarkson-phd-candidate-co-chairs-session-american-association-aerosol-research-aaar&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;CU News&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Traffic-related Air Pollution</title>
-      <link>https://vijaykumar18.github.io/post/2022-29-04-storymap/</link>
-      <pubDate>Thu, 28 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://vijaykumar18.github.io/post/2022-29-04-storymap/</guid>
-      <description>&lt;h2 id=&#34;arcgis-story-map-link-attached-below&#34;&gt;ArcGis story map link attached below:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;👉 &lt;a href=&#34;https://storymaps.arcgis.com/stories/45dbb258dba24ef1bc43d52fa8795ebc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;ArcGIS Story Map&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
